@@ -2,7 +2,7 @@
 
 An experimentation for generatic scores for the WFSCollider System:
 
-https://github.com/GameOfLife/WFSCollider
+https://github.com/GameOfLife/WFSCollider/
 
 https://sourceforge.net/projects/wfscollider/
 
