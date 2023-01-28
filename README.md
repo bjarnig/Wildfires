@@ -7,7 +7,7 @@ https://sourceforge.net/projects/wfscollider/
 
 Contains:
 
-An WFSAgent
-A WFSCommunity
-Udefs
-Several examples of how these may be generated
+* An WFSAgent
+* A WFSCommunity
+* Udefs
+* Several examples of how these may be generated
