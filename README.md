@@ -1,16 +1,17 @@
 # Wildfires
 
-An experimentation for generatic scores for the WFSCollider System:
-
-https://github.com/GameOfLife/WFSCollider/
-
-https://sourceforge.net/projects/wfscollider/
+An implementatin of the watts-strogatz algorithm.
 
 Contains:
-* An WFSAgent
-* A WFSCommunity
-* Udefs
-* Several examples of how these may be generated
+* A Graph object
+* A Graph Node object
+* Functions to create the Graph and rewiring
+* Functions to iterate and play the Graph and its Nodes
 
+`code` 
 
-
+g = RGGraph(12,2,0.15)
+g.print
+g.smallWorld
+g.print
+g.run
