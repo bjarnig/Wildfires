@@ -8,7 +8,7 @@ Contains:
 * Functions to create the Graph and rewiring
 * Functions to iterate and play the Graph and its Nodes
 
-`code` 
+////
 
 g = RGGraph(12,2,0.15)
 g.print
