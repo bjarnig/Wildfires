@@ -1,5 +1,5 @@
 # Wildfires
-An small repository for generatic scores for the WFSCollider System:
+Generatic scores for the WFSCollider System:
 
 https://github.com/GameOfLife/WFSCollider/
 
